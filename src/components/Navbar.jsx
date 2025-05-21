@@ -8,7 +8,7 @@ export default function NavBar() {
 
    return <nav className="navbar">
       <div className="navbar-brand">
-         <Link to="/">Movie App</Link>
+         <Link to="/">movieoo</Link>
       </div>
       <div className="nav-links">
          <Link to="/" className="nav-link" onClick={resetHome}>Home</Link>
